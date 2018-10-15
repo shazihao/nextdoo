@@ -1,1 +1,2 @@
-print('路')
+a ='sukura最好了'
+print(a)
